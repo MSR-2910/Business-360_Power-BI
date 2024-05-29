@@ -1,10 +1,22 @@
-## Problem Statement
+## AtliQ Hardware Data Analytics Project
 
-Atliq manufactures and sells hardware like PCs, printers, and mice through various channels, including brick-and-mortar stores and e-commerce platforms. Our challenge is to improve transparency and data-driven decision-making across markets and functions. This project aims to achieve a 10% incremental profit by leveraging data analytics.
+AtliQ Hardware is embarking on a journey to implement data analytics using Power BI to drive informed decision-making across various departments. This project aims to provide comprehensive insights to stakeholders, enabling them to surpass competitors in the market.
 
-## Overview
+### Problem Statement
 
-This project is an initiative by AtliQ Hardware to leverage data analytics for strategic decision-making. It involves the utilization of Power BI to visualize and analyze data from multiple sources, with a focus on finance, sales, marketing, and supply chain aspects. By harnessing the power of data, AtliQ Hardware aims to gain a competitive edge and drive business growth.
+AtliQ Hardware faces the challenge of making strategic decisions across diverse departments without access to real-time, comprehensive data insights. This lack of transparency hinders the company's ability to identify market trends, optimize operations, and maximize profitability. By implementing a robust data analytics solution with Power BI, AtliQ aims to overcome these challenges and achieve a 10% increase in profit through data-driven decision-making.
+
+### Report Contents
+
+1. **Finance View**: Displays profit and loss statements to analyze financial performance across markets, products, and customers.
+
+2. **Sales View**: Presents top and bottom customers with key metrics. A matrix format is preferred for a comprehensive understanding of their performance.
+
+3. **Marketing View**: Similar to the sales view, but focused on products rather than customers.
+
+4. **Supply Chain**: Provides insights on reliability and forecast accuracy to understand supply chain performance.
+
+5. **Executive View**: Offers an integrated overview of key insights tailored for executives.
 
 ## Project Objectives
 
