@@ -16,8 +16,6 @@ AtliQ Hardware faces the challenge of making strategic decisions across diverse 
 
 4. **Supply Chain**: Provides insights on reliability and forecast accuracy to understand supply chain performance.
 
-5. **Executive View**: Offers an integrated overview of key insights tailored for executives.
-
 ## Project Objectives
 
 - Implement data analytics using Power BI.
