@@ -1,6 +1,6 @@
-# AtliQ Hardware Data Analytics Project
+## Problem Statement
 
-AtliQ Hardware is embarking on a journey to implement data analytics using Power BI to drive informed decision-making across various departments including finance, sales, marketing, and supply chain. This project aims to provide comprehensive insights to stakeholders, enabling them to surpass competitors in the market.
+Atliq manufactures and sells hardware like PCs, printers, and mice through various channels, including brick-and-mortar stores and e-commerce platforms. Our challenge is to improve transparency and data-driven decision-making across markets and functions. This project aims to achieve a 10% incremental profit by leveraging data analytics.
 
 ## Overview
 
