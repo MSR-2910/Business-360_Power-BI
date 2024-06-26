@@ -6,6 +6,17 @@ AtliQ Hardware is embarking on a journey to implement data analytics using Power
 
 AtliQ Hardware faces the challenge of making strategic decisions across diverse departments without access to real-time, comprehensive data insights. This lack of transparency hinders the company's ability to identify market trends, optimize operations, and maximize profitability. By implementing a robust data analytics solution with Power BI, AtliQ aims to overcome these challenges and achieve a 10% increase in profit through data-driven decision-making.
 
+## Company and Sales Structure
+
+### Types of Customers:
+- Brick and Mortar: Physical stores like Croma and Best Buy.
+- E-Commerce: Online stores like Amazon and Flipkart.
+
+### Sales Channels 
+- Retailers: Includes both Brick and Mortar and E-Commerce platforms.
+- Direct Channel: AtliQ's own stores.
+- Distributors: When AtliQ can't sell directly, they sell to a distributor who then supplies various stores.
+
 ### Report Contents
 
 1. **Finance View**: Displays profit and loss statements to analyze financial performance across markets, products, and customers.
@@ -52,5 +63,3 @@ The Power BI reports generated from this project empower stakeholders to make in
 The comprehensive analysis provided by these reports facilitates the understanding of causality behind various business outcomes. Stakeholders can delve into the data to uncover the reasons behind specific trends, anomalies, or patterns, allowing them to answer countless "why" questions and gain deeper insights into the factors driving business performance.
 
 Whether it's understanding why certain products are performing better than others, why sales declined in a particular region, or why marketing campaigns yielded varying results, the Power BI reports offer the clarity needed to make informed decisions and drive continuous improvement.
-
-
